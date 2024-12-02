@@ -2,4 +2,5 @@
 <resources>
     <color name="black">#FF000000</color>
     <color name="bg_splash_screen">#FFFFFFFF</color>
+    <color name="main_Screen">#A8FFC402</color>
 </resources>
